@@ -3,5 +3,16 @@ This data was collected by looking for data at each US state's election commissi
 1. [`code-us`](https://github.com/ai4society/election-dataset-us/tree/main/code-us) folder contains code to work with data in data-us sub-folder.
 2. [`data-us`](https://github.com/ai4society/election-dataset-us/tree/main/data-us) folder contains data in .json format.
 
+## Citation
+
+If you find this work useful, please cite:
+```
+@inproceedings{ai4s2024-voterfaqsUS,
+  title={Do Voters Get the Information They Want? Understanding Authentic Voter FAQs in the US and How to Improve for Informed Electoral Participation},
+  author={TBD},
+  booktitle={TBD},
+  year={2024}
+}
+```
 ## Related data: global democracies
 For related Voter FAQs data about leading global democracies, see [repo](https://github.com/ai4society/election-dataset/).
