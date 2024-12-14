@@ -4,4 +4,4 @@ This data was collected by looking for data at each US state's election commissi
 2. [`data-us`](https://github.com/ai4society/election-dataset-us/tree/main/data-us) folder contains data in .json format.
 
 ## Related data: global democracies
-For related Voter FAQs data about leading global democracies, see [repo](https://github.com/ai4society/election-dataset/)
+For related Voter FAQs data about leading global democracies, see [repo](https://github.com/ai4society/election-dataset/).
