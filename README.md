@@ -9,8 +9,8 @@ If you find this work useful, please cite:
 ```
 @inproceedings{ai4s2024-voterfaqsUS,
   title={Do Voters Get the Information They Want? Understanding Authentic Voter FAQs in the US and How to Improve for Informed Electoral Participation},
-  author={TBD},
-  booktitle={TBD},
+  author={Vipula Rawte and Deja N Scott and Gaurav Kumar and Aishneet Juneja and Bharat Sowrya Yaddanapalli and Biplav Srivastava},
+  booktitle={Under review},
   year={2024}
 }
 ```
