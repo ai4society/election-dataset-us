@@ -1,638 +1,548 @@
 {
     "state": "MA",
-    "num_questions": 106,
-    "num_answers": 106,
+    "num_questions": 90,
+    "num_answers": 90,
     "contributor": "Deja Scott",
     "questions": [
         {
-            "q": "What is Voting by Mail?",
-            "a": "In most elections in Massachusetts, you can choose whether you prefer to vote in person or by mail. No-excuse early voting by mail is available for:",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
-        },
-        {
-            "q": "How do you apply for vote by mail ballot?",
-            "a": "You can request your Vote by Mail ballot:",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
-        },
-        {
-            "q": "What are the Application Deadlines for voting by mail?",
-            "a": "Your mail-in application must reach your local election officials by 5 p.m. on the 5th business day before the election. No matter when the application is postmarked, your application must be at the local election office by the deadline.",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
-        },
-        {
-            "q": "How to return your vote by mail ballot?",
-            "a": "There are several options for returning your ballot. You may return your ballot by:",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
-        },
-        {
-            "q": "How to vote in Person?",
-            "a": "You can still vote in person if:",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
-        },
-        {
-            "q": "How to vote by mail in Local Elections?",
-            "a": "State law allows cities and towns to opt out of no-excuse early voting by mail in local elections. A city or town can only opt out of Vote by Mail for a local election after the city council or board of selectmen hold a public hearing and take a recorded vote to do so at least 45 days before the election.",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
-        },
-        {
-            "q": "What are the Vote by Mail Accommodations?",
-            "a": "If you have a disability that prevents you from marking a paper ballot independently, you may qualify to use the Accessible Vote by Mail system. Visit our page for voters with disabilities to find more information and an Accessible Vote by Mail Application.",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
-        },
-        {
             "q": "Who can Register to Vote?",
-            "a": "You can register to vote in Massachusetts if you are:",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
+            "a": "You can register to vote in Massachusetts if you are:  A U.S. citizen A resident of Massachusetts 18 years or older Not currently incarcerated by reason of a felony conviction. You can register to vote online, by mail, or in person.  You can pre-register to vote in Massachusetts if you are:  A U.S. citizen. A resident of Massachusetts. 16 or 17 years old. Not currently incarcerated by reason of a felony conviction. You may pre-register to vote by submitting a voter registration form. You can submit it online, by mail, or in person. Youll receive confirmation of your pre-registration by mail. When you turn 18 you will be added to the voter list.",
+            "s": "https://www.sec.state.ma.us/divisions/elections/voter-resources/registering-to-vote.htm",
+            "t": 1726963200.0
         },
         {
             "q": "What are the Voter Registration Deadlines?",
             "a": "The deadline to register to vote, update your registration, or change your party is 10 days before any election or town meeting.",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
+            "s": "https://www.sec.state.ma.us/divisions/elections/voter-resources/registering-to-vote.htm",
+            "t": 1726963200.0
         },
         {
-            "q": "How do New Citizens register to vote?",
-            "a": "You can register to vote as soon as you are naturalized. You will need to register using a paper form, either by mail or in person, until the next time you renew your driver\u2019s license or state ID with the Registry of Motor Vehicles. The RMV can\u2019t verify your identity to use the Online Voter Registration System until you provide them with proof of citizenship.",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
+            "q": "How to register as New Citizens?",
+            "a": "You can register to vote as soon as you are naturalized. You will need to register using a paper form, either by mail or in person, until the next time you renew your drivers license or state ID with the Registry of Motor Vehicles. The RMV cant verify your identity to use the Online Voter Registration System until you provide them with proof of citizenship.  If you became a U.S. citizen after the voter registration deadline, you can register to vote in person at your local election office until 4 p.m. on the day before the election. Make sure you bring proof that your naturalization ceremony took place after the voter registration deadline.",
+            "s": "https://www.sec.state.ma.us/divisions/elections/voter-resources/registering-to-vote.htm",
+            "t": 1726963200.0
         },
         {
-            "q": "How to register to vote online?",
-            "a": "If you have a signature on file with the Massachusetts Registry of Motor Vehicles, you can register online. You can also pre-register, update your address, update your name, and change your political party designation.",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
+            "q": "How do I Register Online?",
+            "a": "If you have a signature on file with the Massachusetts Registry of Motor Vehicles, you can register online. You can also pre-register, update your address, update your name, and change your political party designation.  Voter registration forms submitted online must be submitted by 11:59 p.m. on the date of the voter registration deadline.",
+            "s": "https://www.sec.state.ma.us/divisions/elections/voter-resources/registering-to-vote.htm",
+            "t": 1726963200.0
         },
         {
-            "q": "How to register to vote by mail?",
-            "a": "You can register or pre-register to vote with a mail-in voter registration form. Print, fill out, and sign the voter registration form. Mail the signed form to your local election office. Your voter registration form must be postmarked by the voter registration deadline.",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
+            "q": "How do I Register by Mail?",
+            "a": "You can register or pre-register to vote with a mail-in voter registration form. Print, fill out, and sign the voter registration form. Mail the signed form to your local election office. Your voter registration form must be postmarked by the voter registration deadline.  If you are registering to vote in Massachusetts for the first time, you should include a copy of identification that shows your name and address with your form. If you dont include a copy of your ID, you may need to show it the first time you vote.",
+            "s": "https://www.sec.state.ma.us/divisions/elections/voter-resources/registering-to-vote.htm",
+            "t": 1726963200.0
         },
         {
-            "q": "How to register to vote In-Person?",
-            "a": "You can register or pre-register to vote in person.",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
+            "q": "How do I Register In-Person?",
+            "a": "You can register or pre-register to vote in person. In Massachusetts, you can register to vote in-person at:  Your local town clerks, election commission, and Boards of Registrars. The Office of the Secretary of the Commonwealth Elections Division. The Secretary of the Commonwealths regional offices. Voter registration forms completed in-person are valid on the day that they are signed.",
+            "s": "https://www.sec.state.ma.us/divisions/elections/voter-resources/registering-to-vote.htm",
+            "t": 1726963200.0
         },
         {
             "q": "What is Automatic Voter Registration?",
-            "a": "If you are a Massachusetts citizen doing certain things at the Registry of Motor Vehicles, MassHealth, and the Commonwealth Health Connector, you will automatically become registered to vote.",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
+            "a": "If you are a Massachusetts citizen doing certain things at the Registry of Motor Vehicles, MassHealth, and the Commonwealth Health Connector, you will automatically become registered to vote.  You can be automatically registered to vote when you:  Apply for or renew your drivers license at the Registry of Motor Vehicles (RMV). Apply for or renew a learner's permit. Apply for or renew a state ID. Apply for MassHealth benefits online, in person, or by phone. Apply for health insurance through the Commonwealth Health Connector.",
+            "s": "https://www.sec.state.ma.us/divisions/elections/voter-resources/registering-to-vote.htm",
+            "t": 1726963200.0
         },
         {
             "q": "Do I still need to register to vote?",
-            "a": "You should still register to vote every time you move. You will only be automatically registered if you perform specific actions at the RMV, MassHealth, or the Health Connector and you haven\u2019t already updated your voter registration.",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
+            "a": "You should still register to vote every time you move. You will only be automatically registered if you perform specific actions at the RMV, MassHealth, or the Health Connector and you havent already updated your voter registration.  If you are not registered to vote at your current address, you should submit a voter registration form. You can do this online, by mail, or in person.",
+            "s": "https://www.sec.state.ma.us/divisions/elections/voter-resources/registering-to-vote.htm",
+            "t": 1726963200.0
         },
         {
             "q": "How does automatic voter registration work?",
             "a": "If the RMV, MassHealth, or the Health Connector determines that you are a United States citizen, they will send your information to the election office. When your election office receives your name, address, and date of birth, they will add you to the voter list. They will send a notice confirming your registration in 2-3 weeks.",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
+            "s": "https://www.sec.state.ma.us/divisions/elections/voter-resources/registering-to-vote.htm",
+            "t": 1726963200.0
         },
         {
             "q": "Can I opt out of registering?",
             "a": "State law no longer allows you to opt out of registration during your transaction. Instead, you will be sent a notice by mail to inform you of your automatic registration, and that notice will explain how you can remove your name from the voter list.",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
+            "s": "https://www.sec.state.ma.us/divisions/elections/voter-resources/registering-to-vote.htm",
+            "t": 1726963200.0
         },
         {
-            "q": "If I\u2019m already registered, will I be registered to vote twice?",
+            "q": "If Im already registered, will I be registered to vote twice?",
             "a": "No. If you are already registered to vote at your current address, nothing will change. If you are registered to vote at a different address in Massachusetts, your address will be updated with your new registration.",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
+            "s": "https://www.sec.state.ma.us/divisions/elections/voter-resources/registering-to-vote.htm",
+            "t": 1726963200.0
         },
         {
             "q": "What if I am not the one completing my health insurance application?",
-            "a": "You will not be registered to vote. Automatic voter registration does not apply to applications completed for someone else. If you are applying for a family, only the person who signs the form will be registered to vote.",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
+            "a": "You will not be registered to vote. Automatic voter registration does not apply to applications completed for someone else. If you are applying for a family, only the person who signs the form will be registered to vote. ",
+            "s": "https://www.sec.state.ma.us/divisions/elections/voter-resources/registering-to-vote.htm",
+            "t": 1726963200.0
         },
         {
             "q": "What if I move?",
             "a": "If you are re-applying for health insurance or a driver's license when you update your address, you will be automatically registered to vote at your new address. If you are merely updating your address, you should submit a new voter registration form when you move. You can update your address for voter registration purposes online.",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
+            "s": "https://www.sec.state.ma.us/divisions/elections/voter-resources/registering-to-vote.htm",
+            "t": 1726963200.0
+        },
+        {
+            "q": "How do I join a political party?",
+            "a": "If you are already registered to vote in Massachusetts, this will not change your party affiliation.  If you are not already registered to vote in Massachusetts, you will automatically be registered as Unenrolled (commonly referred to as \"Independent\"). You can choose a party when you receive confirmation of your voter registration.",
+            "s": "https://www.sec.state.ma.us/divisions/elections/voter-resources/registering-to-vote.htm",
+            "t": 1726963200.0
         },
         {
             "q": "What if I am not a U.S. citizen?",
             "a": "You will not be registered to vote. Automatic registration only takes place at agencies that collect citizenship information. You can only be automatically registered to vote if you have provided the agency with a copy of a U.S. birth certificate, U.S. passport, or U.S. naturalization papers.",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
+            "s": "https://www.sec.state.ma.us/divisions/elections/voter-resources/registering-to-vote.htm",
+            "t": 1726963200.0
         },
         {
-            "q": "Where Do I Find Election Results?",
-            "a": "Elections results are often separated into two categories: unofficial and official. Unofficial results are announced by poll workers shortly after polls close on Election Night. These results are typically shared with media organizations and may be posted online by local election officials. Unofficial results are subject to change as additional ballots are counted and tallies are confirmed. We do not publish unofficial election results. Official results are final election results that have been certified by local clerks and submitted to our office. We publish official on our election results database after we receive and review them. Learn more about the certification of election results below.",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
+            "q": "What is the upcoming election?",
+            "a": "November 5, 2024  State Election",
+            "s": "https://www.sec.state.ma.us/divisions/elections/recent-updates/upcoming-elections.htm",
+            "t": 1726963200.0
         },
         {
-            "q": "Where do I find Unofficial Results?",
-            "a": "Unofficial election results are often released by local officials to media organizations on Election Night. However, local officials don\u2019t report unofficial results to the state. We receive election results from cities and towns only after local clerks finalize and certify them. Unofficial results typically don\u2019t include write-in, provisional, military, or overseas ballots. They also don\u2019t separate mail-in vote tallies from in-person vote tallies. Any totals reported on Election Night include all methods of voting (mail, early, and Election Day). For elections requiring all ballots to be counted on Election Night, it may take a few hours to complete the count. Last-minute ballot drop box returns may delay the reporting of results, as the ballots must be sent to the local election office for signature verification and then counted after voter lists are returned from polling places. If last-minute ballot returns will cause significant delays in reporting unofficial totals, officials may release partial precinct results. Partial results will include all votes except for ballots returned to drop boxes shortly before the close of polls. When those votes are counted, officials will update the results.",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
+            "q": "Which district?",
+            "a": "Statewide ",
+            "s": "https://www.sec.state.ma.us/divisions/elections/recent-updates/upcoming-elections.htm",
+            "t": 1726963200.0
         },
         {
-            "q": "Where do I find Official Results?",
-            "a": "We publish final, certified official results to our election results database. Local officials must certify results before they can be certified at the state level. After each state election and primary, local election officials must review tally sheets, resolve remaining ballots, and finalize results. They have a set period of days to submit official results: State Election: 15 days State Primary: 4 days Presidential Primary: 4 days In this post-election certification period, local election officials must: Investigate provisional ballots and count eligible votes Review write-in vote tallies to ensure an accurate count Confirm vote tallies by precinct Wait 10 days for overseas ballots to arrive in the mail (state elections only) Count mail ballots that arrive on or after Election Day (state elections only) Conduct random post-election audits (presidential elections only) After local election officials certify the results, they submit them to our office for state certification. For state elections, we then present the election results to the Governor and Governor\u2019s Council for final certification. This final certification typically occurs in late November or early December, depending on the Governor\u2019s Council\u2019s meeting schedule. If you have any questions about election results, contact our office or your local election office.",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
+            "q": "What offices are on the Ballot?",
+            "a": "Electors of President and Vice President U.S. Senator U.S. Representative Governors Councillor State Senator State Representative Register of Deeds Clerk of Courts County Commissioner (certain counties only) Additional local offices (certain cities & towns)",
+            "s": "https://www.sec.state.ma.us/divisions/elections/recent-updates/upcoming-elections.htm",
+            "t": 1726963200.0
         },
         {
-            "q": "What are the State Elections & Primaries polling hours?",
-            "a": "For state elections, state primaries, and presidential primaries, all polling places will be open on Election Day from 7 a.m. until 8 p.m.",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
+            "q": "What is the Voter Registration Deadline?",
+            "a": "October 26, 2024",
+            "s": "https://www.sec.state.ma.us/divisions/elections/recent-updates/upcoming-elections.htm",
+            "t": 1726963200.0
         },
         {
-            "q": "What are the Local Elections polling hours?",
-            "a": "Polling hours in city and town elections vary by community. Contact your local election office to find out what time polls will be open for your local election.",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
+            "q": "What is the Vote by Mail Application Deadline?",
+            "a": "October 29, 2024",
+            "s": "https://www.sec.state.ma.us/divisions/elections/recent-updates/upcoming-elections.htm",
+            "t": 1726963200.0
         },
         {
-            "q": "What are the Early Voting polling hours?",
-            "a": "Early voting hours are usually different from Election Day polling hours. The early voting schedule in your community is set by local officials. Visit our Early Voting page for more information on early voting hours.",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
+            "q": "What are the Polling Hours?",
+            "a": "7 a.m.  8 p.m.",
+            "s": "https://www.sec.state.ma.us/divisions/elections/recent-updates/upcoming-elections.htm",
+            "t": 1726963200.0
         },
         {
-            "q": "What are the Identification Requirements?",
-            "a": "You may need to show identification when you check-in at your polling place if: You are voting for the first time in Massachusetts You\u2019re on the inactive voter list You're casting a provisional or challenged ballot The poll worker has a practical and legal reason to ask for identification Identification needs to show your name and the address where you are registered to vote. Examples of acceptable identification are: A driver's license A state ID card A recent utility bill A rent receipt or lease. A copy of a voter registration affidavit A letter from a school dormitory or housing office Any other printed identification which contains your name and address If you need to show identification because you\u2019re voting for the first time and you don\u2019t have identification with you, you can cast a provisional ballot. If you return with identification before the polls close, your ballot will be counted. If you need to show identification for any other reason and you\u2019re not able to do so, you can cast a challenged ballot. Your name and address, the challenger\u2019s name and address, and the reason for the challenge will be written on your ballot. Your ballot will be cast as normal and only examined if there is a recount, court order, or audit.",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
+            "q": "What are the Political Parties?",
+            "a": "Primaries are held in order for political parties to choose their nominees for the general election ballot. There are currently three recognized political parties in Massachusetts:  Democratic Party Republican Party Libertarian Party Each party holds its own primary. Separate ballots are printed for each party, with only the candidates running for that partys nomination listed.  Non-party candidates, often called independent candidates, dont appear on primary ballots. They only run in the general election.",
+            "s": "https://www.sec.state.ma.us/divisions/elections/voting-information/vote-primary.htm",
+            "t": 1726963200.0
         },
         {
-            "q": "Who are Inactive Voters?",
-            "a": "If you don\u2019t respond to the Annual Street List, you\u2019ll be put on the inactive voter list. If you are on the inactive voter list, you can still vote. Bring identification to your polling place. You must fill out an Affirmation of Current and Continuous Residence. This allows you to cast your ballot. You\u2019ll be added to the active voter list. If you do not vote in two consecutive federal elections while you\u2019re inactive, you will no longer be registered to vote. You should register to vote again.",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
+            "q": "What is Party Enrollment?",
+            "a": "You dont need to enroll in a party to vote in a primary in Massachusetts. All registered voters can participate.  If youre registered in one party, however, you cant vote in another partys primary.  You can vote in the party primary of your choice if you're:  Registered as Unenrolled (often called Independent) Registered in a political designation If you want to change your party to vote in a different partys primary, youll need to update your voter registration at least 10 days before the primary.  Check your party enrollment before the voter registration deadline. You can make a party change online, by mail, or in person at your local election office. ",
+            "s": "https://www.sec.state.ma.us/divisions/elections/voting-information/vote-primary.htm",
+            "t": 1726963200.0
+        },
+        {
+            "q": "How do I chose a Ballot?",
+            "a": "If you arent enrolled in a political party, you can choose a party ballot when you check-in at your polling place. Choosing a ballot wont enroll you in a party.  Check the specimen ballots on the wall at your polling place before making your selection. Once youve chosen a ballot, and the poll worker marks your choice on the voter list, you cant change your selection.  If you vote by mail, and you are not a party member, make sure to select your party on the Vote by Mail application. If you dont select a party on the Vote by Mail application, you wont get a primary ballot.",
+            "s": "https://www.sec.state.ma.us/divisions/elections/voting-information/vote-primary.htm",
+            "t": 1726963200.0
+        },
+        {
+            "q": "When are primaries held?",
+            "a": "Regular state primaries are held in September of each even-numbered year. Voters in these primaries choose party candidates to run in the November election.  Presidential primaries in Massachusetts occur on the first Tuesday of March in each presidential election year. This day, is often called Super Tuesday, because many states hold their presidential primaries on the same day.  Visit our Upcoming Elections page to find the dates of specific elections.",
+            "s": "https://www.sec.state.ma.us/divisions/elections/voting-information/vote-primary.htm",
+            "t": 1726963200.0
+        },
+        {
+            "q": "Why isnt there an Independent option on my Vote by Mail application?",
+            "a": "Primaries are only held by political parties, so theres no independent primary. Any non-party candidates automatically advance to the November general election ballot.  When you choose a party option on your Vote by Mail application, youre just making a ballot choice. You arent registering in that party.",
+            "s": "https://www.sec.state.ma.us/divisions/elections/voting-information/vote-primary.htm",
+            "t": 1726963200.0
+        },
+        {
+            "q": "Why cant I vote for candidates in both parties?",
+            "a": "Parties hold separate primaries in Massachusetts, with separate ballots. State law doesnt allow for voters to choose more than one ballot, or for candidates of different parties to appear on the same primary ballot.",
+            "s": "https://www.sec.state.ma.us/divisions/elections/voting-information/vote-primary.htm",
+            "t": 1726963200.0
+        },
+        {
+            "q": "Can I write-in a candidate from a different party on my ballot?",
+            "a": "Yes. You can write-in any candidate not listed on your ballot, but the vote will be counted as one vote for that person to win the party nomination for the primary in which youre voting.  For example, if you write-in the name of a Republican candidate on your Democratic Primary ballot, youll be casting your vote for that candidate to receive the Democratic nomination.",
+            "s": "https://www.sec.state.ma.us/divisions/elections/voting-information/vote-primary.htm",
+            "t": 1726963200.0
+        },
+        {
+            "q": "Why are Democratic ballots red and Republican ballots blue?",
+            "a": "Its a long-standing Massachusetts tradition.  While modern political coverage uses blue for Democrats and red for Republicans, Massachusetts has used the reverse for primary ballots for nearly a century.  Primary ballots in Massachusetts appear with red/pink paper for Democratic ballots and blue paper for Republican ballots.",
+            "s": "https://www.sec.state.ma.us/divisions/elections/voting-information/vote-primary.htm",
+            "t": 1726963200.0
+        },
+        {
+            "q": "What are Inactive Voters?",
+            "a": "If you dont respond to the Annual Street List, youll be put on the inactive voter list.  If you are on the inactive voter list, you can still vote. Bring identification to your polling place. You must fill out an Affirmation of Current and Continuous Residence. This allows you to cast your ballot. Youll be added to the active voter list.  If you do not vote in two consecutive federal elections while youre inactive, you will no longer be registered to vote. You should register to vote again. ",
+            "s": "https://www.sec.state.ma.us/divisions/elections/voting-information/inactive-voters.htm",
+            "t": 1726963200.0
         },
         {
             "q": "What is The Annual Street List?",
-            "a": "Every year, each city and town gathers resident information for an Annual Street List. This is also known as a city or town census. Your city or town will mail you a form. Fill it out, sign it and mail it back to confirm your address. If you don\u2019t respond to the Annual Street List, you will be put on the inactive voters list. Your local election office will mail you a notice. If you sign it and return it you will be removed from the inactive voters list. You can also submit a new voter registration form or send proof of your address that includes your signature to your local election office.",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
+            "a": "Every year, each city and town gathers resident information for an Annual Street List. This is also known as a city or town census. Your city or town will mail you a form. Fill it out, sign it and mail it back to confirm your address.  If you dont respond to the Annual Street List, you will be put on the inactive voters list. Your local election office will mail you a notice. If you sign it and return it you will be removed from the inactive voters list.  You can also submit a new voter registration form or send proof of your address that includes your signature to your local election office.",
+            "s": "https://www.sec.state.ma.us/divisions/elections/voting-information/inactive-voters.htm",
+            "t": 1726963200.0
         },
         {
-            "q": "How do Inactive voters vote?",
-            "a": "If you are an inactive voter, it will be indicated on the list of voters when you check-in at your polling place. Before you can vote, you will be required to complete an Affirmation of Current and Continuous Residence. On this form, you must affirm that you continue to reside at the address at which you are registered, have moved within the same town, or have moved from one municipality to another Massachusetts municipality within six months of a state election. You will also be asked to present identification which shows your name and the address at which you are registered to vote. It is not required that you present photo identification. Acceptable forms of identification include: A driver's license A state-issued ID card A recent utility bill A rent receipt A lease A copy of a voter registration affidavit Any other printed identification which contains your name and address As soon as you have completed the Affirmation of Current and Continuous Residence, you will be restored to the active voters list.",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
+            "q": "How do I vote as an inactive voter?",
+            "a": "If you are an inactive voter, it will be indicated on the list of voters when you check-in at your polling place. Before you can vote, you will be required to complete an Affirmation of Current and Continuous Residence. On this form, you must affirm that you continue to reside at the address at which you are registered, have moved within the same town, or have moved from one municipality to another Massachusetts municipality within six months of a state election.  You will also be asked to present identification which shows your name and the address at which you are registered to vote. It is not required that you present photo identification.  Acceptable forms of identification include:  A driver's license A state-issued ID card A recent utility bill A rent receipt A lease A copy of a voter registration affidavit Any other printed identification which contains your name and address As soon as you have completed the Affirmation of Current and Continuous Residence, you will be restored to the active voters list.",
+            "s": "https://www.sec.state.ma.us/divisions/elections/voting-information/inactive-voters.htm",
+            "t": 1726963200.0
         },
         {
-            "q": "How to be Removed from the List of Inactive Voters?",
+            "q": "How do I get Removed from the List of Inactive Voters?",
             "a": "Inactive voters remain registered to vote until they fail to vote in two consecutive biennial state elections. Inactive voters are restored to the active voters list any time they complete an Affirmation of Current and Continuous Residence, fill out a new voter registration form, or submit anything to their local election official which is signed under penalty of perjury and confirms the voter's address.",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
+            "s": "https://www.sec.state.ma.us/divisions/elections/voting-information/inactive-voters.htm",
+            "t": 1726963200.0
         },
         {
-            "q": "What are Provisional Ballots?",
-            "a": "If you\u2019re not on the voters list when you check in to vote, or if your information on the list is wrong, you can cast a provisional ballot. If your local election office confirms that you\u2019re registered to vote, your ballot will be counted. If your voter registration status can\u2019t be confirmed, your ballot will be destroyed and not counted.",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
+            "q": "What are the Identification Requirements?",
+            "a": "You may need to show identification when you check-in at your polling place if:  You are voting for the first time in Massachusetts Youre on the inactive voter list You're casting a provisional or challenged ballot The poll worker has a practical and legal reason to ask for identification Identification needs to show your name and the address where you are registered to vote. Examples of acceptable identification are:  A driver's license A state ID card A recent utility bill A rent receipt or lease. A copy of a voter registration affidavit A letter from a school dormitory or housing office Any other printed identification which contains your name and address If you need to show identification because youre voting for the first time and you dont have identification with you, you can cast a provisional ballot. If you return with identification before the polls close, your ballot will be counted.  If you need to show identification for any other reason and youre not able to do so, you can cast a challenged ballot. Your name and address, the challengers name and address, and the reason for the challenge will be written on your ballot. Your ballot will be cast as normal and only examined if there is a recount, court order, or audit.",
+            "s": "https://www.sec.state.ma.us/divisions/elections/voting-information/identification-requirements.htm",
+            "t": 1726963200.0
         },
         {
-            "q": "What are Reasons for Voting Provisionally?",
-            "a": "Name is not on the Voter List",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
+            "q": "Are there Accessible Polling Places?",
+            "a": "All polling locations must be accessible. The Secretary of the Commonwealth has standards locations are required to meet. This includes:  Accessible parking Accessible entrances Ramps wherever there are stairs These do not have to be permanent.  Read all of the requirements here.",
+            "s": "https://www.sec.state.ma.us/divisions/elections/voting-information/voters-with-disabilities.htm",
+            "t": 1726963200.0
         },
         {
-            "q": "How to Resolve Provisional Ballots?",
-            "a": "Local election offices must resolve all provisional ballots within three days of state or presidential primary elections. Provisional ballots cast for state and local elections must be resolved within 12 days of the election. If your local election office finds that you are an eligible voter, your ballot will be counted.",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
+            "q": "What are the Accessible Voting Procedures?",
+            "a": "A voter can choose someone to assist them while:  Entering the polling location Checking in Entering the voting booth Preparing the ballot Exiting the booth Checking out If you cant come to a polling location, you can vote through the mail using an absentee ballot.",
+            "s": "https://www.sec.state.ma.us/divisions/elections/voting-information/voters-with-disabilities.htm",
+            "t": 1726963200.0
         },
         {
-            "q": "What is Absentee Voting?",
-            "a": "In most elections in Massachusetts, voters can choose whether they would prefer to vote in person or by mail. Excuse-required absentee voting by mail is available in all elections, to those who qualify. While early Vote by Mail ballots are more common, there are special circumstances where you may need to use the Absentee Ballot application to apply for an absentee ballot instead.",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
+            "q": "Is there Accessible Voting Equipment?",
+            "a": "Every early voting and polling location must have at least one accessible voting machine. The AutoMARK Voter Assist Terminals can assist visually impaired voters. It displays the ballot in high-contrast, magnified text and uses audio cues. The AutoMARK can also read you your ballot before you print it out and submit it.  Watch this AutoMARK Video for more information on the AutoMARK Voter Assist Terminal.",
+            "s": "https://www.sec.state.ma.us/divisions/elections/voting-information/voters-with-disabilities.htm",
+            "t": 1726963200.0
         },
         {
-            "q": "Who can use Absentee Ballots?",
-            "a": "You can vote by absentee ballot if:You will be away from your city or town on Election Day You have a religious belief that prevents you from voting at your polling location on Election Day You have a disability that prevents you from voting at your polling location Absentee voters use the same ballots as early Vote by Mail voters and have the same deadlines for returning their ballots. Most voters who qualify for an absentee ballot can choose instead to apply for an early Vote by Mail ballot. There are some times that an absentee ballot application is needed. You should fill out an absentee ballot application if: You qualify for an absentee ballot and you are voting in a local election in a city or town that has opted out of Vote by Mail for that election You are on active military duty You are a U.S. citizen living outside the U.S. You will be away from your city or town on Election Day You are requesting an emergency absentee ballot due to hospitalization You are currently incarcerated for a reason other than a felony conviction",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
+            "q": "How do I contact you?",
+            "a": "Please let us know how we can improve accessibility. Call us at 1-800-462-VOTE (8683) (toll free) or 617-727-2828. Citizens who are deaf or hard of hearing, or those with speech, motion or cognitive issues, may use the secure and confidential communication services of MassRelay in English and Spanish. You may also e-mail us at elections@sec.state.ma.us.",
+            "s": "https://www.sec.state.ma.us/divisions/elections/voting-information/voters-with-disabilities.htm",
+            "t": 1726963200.0
         },
         {
-            "q": "How do you apply for Absentee Ballot?",
-            "a": "To request your absentee ballot, you will need to submit a absentee application to your local election office: By mail By email By fax Absentee applications can be downloaded or printed here. Further, any written request with your signature is an acceptable application. You can simply write a signed letter to your local election office to apply for your ballot. Applications can be submitted by mail, email, or fax, but they must include a signature that can be compared to your hand-written signature. Electronic signatures, scanned applications, and photos of applications are acceptable. Typed signatures on applications cannot be accepted, unless you are a voter who requires accommodations due to physical disability. If you are unable to sign your application or mark your ballot by hand due to a disability, visit our page about voting with disabilities for information on requesting an accommodation.",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
+            "q": "How do I get an Accessible Vote by Mail Ballot?",
+            "a": "In most elections in Massachusetts, voters can choose to vote by mail. Accessible vote by mail ballots are available for certain voters. If you are blind or have a vision impairment, have a mobility or dexterity disability, or have another disability that makes it difficult for you to mark a paper ballot, you can request an accessible vote by mail ballot.",
+            "s": "https://www.sec.state.ma.us/divisions/elections/voting-information/voters-with-disabilities.htm",
+            "t": 1726963200.0
+        },
+        {
+            "q": "How do I apply for a Ballot?",
+            "a": "To request your Vote by Mail ballot, you will need to submit a Vote by Mail applicationto your local election office:  Online By mail By e-mail or fax In person Vote by Mail applications can be submitted online through the Mail-in Ballot Application System.  To receive an accessible Vote by Mail ballot, check the appropriate box at the bottom of the online application form and provide your email address.  An accessible Vote by Mail application can be downloaded or printed here.  The accessible Vote by Mail application allows you to use a type-written signature if you are not able to independently sign your application by hand.",
+            "s": "https://www.sec.state.ma.us/divisions/elections/voting-information/voters-with-disabilities.htm",
+            "t": 1726963200.0
+        },
+        {
+            "q": "What are the application deadlines?",
+            "a": "Any mail-in ballot must be requested in writing by 5 p.m. on the 5th business day before the election. Your application can only be accepted if it has reached your local election office by the deadline. Apply as early as possible.",
+            "s": "https://www.sec.state.ma.us/divisions/elections/voting-information/voters-with-disabilities.htm",
+            "t": 1726963200.0
+        },
+        {
+            "q": "How do I Vote by Accessible with Mail Ballot?",
+            "a": "Once your application has been received by your local election office, they will send two emails to the email address provided on your application. One will include instructions for accessing the system and returning your completed ballot and the second will give you a unique access PIN to use to login.  You can use the accessible vote by mail system to mark your ballot using a computer or mobile device. Once youre done voting, you can return your ballot electronically or print your completed ballot.",
+            "s": "https://www.sec.state.ma.us/divisions/elections/voting-information/voters-with-disabilities.htm",
+            "t": 1726963200.0
+        },
+        {
+            "q": "How do I return my accessible vote by mail ballot electronically?",
+            "a": "To return the ballot electronically, you will need to review the ballot materials and ballot before submitting the ballot to your local election official using the secure web portal. Ballots returned electronically must be received by the close of polls on Election Day.",
+            "s": "https://www.sec.state.ma.us/divisions/elections/voting-information/voters-with-disabilities.htm",
+            "t": 1726963200.0
+        },
+        {
+            "q": "How do I return my ballot by mail or in person?",
+            "a": "To return a ballot by mail, in a secure drop box, or in person at your local election office, you must be able to print your ballot. To print and return your ballot, you must inform your local election office so they can send you a secrecy envelope and return mailing envelope. Your request for the materials must be received by the local election office by 5 p.m. on the 5th business day before the election.  Once you have printed your ballot, fold it into thirds. If your ballot is more than one page, fold all the pages together. Seal your folded ballot in the yellow secrecy envelope provided by your local election office.  The secrecy envelope will have a signature line marked by a hole punched in the envelope. Complete the affidavit by signing to the right of the hole punch. If you are unable to sign the secrecy envelope by hand, you must include the electronic Affidavit of Compliance generated by the accessible vote by mail system.  Put your sealed secrecy envelope (and the Affidavit of Compliance if needed) into the white mailing envelope. Seal the envelope. The mailing envelope will already be addressed to your local election office and have the postage prepaid.  You can return your ballot by:  Mailing it back using the envelope provided Hand-delivering your ballot to your local election office Dropping your ballot off at an early voting location during early voting hours Using a ballot drop box provided by your city or town Ballots cannot be dropped off at a polling place on Election Day.  Ballots must reach your local election office by the close of polls on Election Day in order to be counted.  If you have questions, please contact the Secretarys accessible Vote by Mail Coordinator at avbm@sec.state.ma.us or by phone at 617-727-2828.",
+            "s": "https://www.sec.state.ma.us/divisions/elections/voting-information/voters-with-disabilities.htm",
+            "t": 1726963200.0
+        },
+        {
+            "q": "How do Military Voters vote?",
+            "a": "You can vote by absentee ballot if:  Youre a member of the United States Military on active duty. Youre a dependent family member of someone on active duty. If youre a member of the military stationed in Massachusetts, you can register to vote in Massachusetts.  If you lived in Massachusetts before being called to active duty and you havent registered elsewhere, you can vote by absentee ballot in Massachusetts elections.  Members of the Army, Navy, Air Force, Marine Corps, Coast Guard (including reservists on active duty), and the merchant marine are all eligible military voters.",
+            "s": "https://www.sec.state.ma.us/divisions/elections/voting-information/military-and-overseas-voters.htm",
+            "t": 1726963200.0
+        },
+        {
+            "q": "How do Overseas Citizens vote?",
+            "a": "If youre a United States citizen living overseas, you can vote in U.S. elections. You can vote using the address from your last residence in the United States. If youre a citizen who has never lived in the U.S., you can vote from your qualifying parents last U.S. address.",
+            "s": "https://www.sec.state.ma.us/divisions/elections/voting-information/military-and-overseas-voters.htm",
+            "t": 1726963200.0
+        },
+        {
+            "q": "How do I apply for a Ballot overseas?",
+            "a": "If youd like to get an absentee ballot, you can:  Apply with the Federal Post Card Application or Apply with the Massachusetts Absentee Ballot Application or Send a written request for an absentee ballot to your local election office Any application has to be sent to your local election office. The signature on your application needs to be able to be compared to your hand-written signature. Typed signatures wont be accepted.  Your absentee ballot application is valid until December 31 of the year that you submit it. You will need to submit a new absentee ballot application every year in which you want to vote.  Absentee ballot applications must reach your local election office by 5 p.m. on the 5th business day before an election. If you miss the deadline to apply for a ballot, you can vote using a Federal Write-in Absentee Ballot. ",
+            "s": "https://www.sec.state.ma.us/divisions/elections/voting-information/military-and-overseas-voters.htm",
+            "t": 1726963200.0
+        },
+        {
+            "q": "How do I vote overseas?",
+            "a": "Youll receive a ballot with the same races as all other Massachusetts voters.  You can choose to receive your ballot through an online portal, by fax, or by mail. There is a space on the Federal Post Card Application where you can mark how youd like to receive your ballot. You can also choose to return your ballot by email/online, by fax, or by mail.  If you do not receive your ballot in time, you can submit a Federal Write-in Absentee Ballot (FWAB) by email or fax. A FWAB is a blank ballot that you can use for any election.",
+            "s": "https://www.sec.state.ma.us/divisions/elections/voting-information/military-and-overseas-voters.htm",
+            "t": 1726963200.0
+        },
+        {
+            "q": "How do I return my ballot overseas?",
+            "a": "Ballot deadlines are different depending on the type of election and how you return your ballot. Deadlines for electronic return (email, online, and fax) may differ from deadlines for ballots returned by mail. Below is a list of deadlines by type of election.  For local elections, you can check with your local election office about what time polls close.  State and Federal Elections Regular Election Electronic return: 8 p.m. on Election Day Mailed from inside the U.S.: Postmarked by Election Day Received by 5 p.m. on the third day after Election Day Mailed from outside the United States: Postmarked by Election Day Received by 5 p.m. on the tenth day after Election Day Special Election Electronic return: 8 p.m. on Election Day Mailed from inside the U.S.: 8 p.m. on Election Day Mailed from outside the United States: Postmarked by Election Day Received by 5 p.m. on the tenth day after Election Day State and Federal Primaries All primary ballots must be received by 8 p.m. on Election Day. City Elections General Election Electronic return: Close of polls on Election Day Mailed from inside the U.S.: Close of polls on Election Day Mailed from outside the United States: Postmarked by Election Day Received by 5 p.m. on the tenth day after Election Day Preliminary Election All preliminary election ballots must be received by close of polls on Election Day. Town Elections All town election ballots must be received by the close of polls on Election Day.",
+            "s": "https://www.sec.state.ma.us/divisions/elections/voting-information/military-and-overseas-voters.htm",
+            "t": 1726963200.0
+        },
+        {
+            "q": "What is a Federal Write-in Absentee Ballot?",
+            "a": "The Federal Write-in Absentee Ballot (FWAB) is a ballot of last resort. If you were not able to apply or receive your ballot in time, you may submit a FWAB.  The FWAB is a blank ballot, which you may use to vote for any candidates or ballot questions.  You may use a FWAB for any election, whether or not you have applied for a ballot. A FWAB may be submitted by mail, email or fax.",
+            "s": "https://www.sec.state.ma.us/divisions/elections/voting-information/military-and-overseas-voters.htm",
+            "t": 1726963200.0
+        },
+        {
+            "q": "How do I apply for my ballot?",
+            "a": "You can request your Vote by Mail ballot:  Online By mail By email or fax",
+            "s": "https://www.sec.state.ma.us/divisions/elections/voting-information/vote-by-mail.htm",
+            "t": 1726963200.0
+        },
+        {
+            "q": "How do I apply online?",
+            "a": "You can submit a Vote by Mail application online through our Mail-in Ballot Application System.  You must be registered to vote to use the online application system. If you need to make changes to your registration, make those changes before you submit your application.  Voter registration changes need to be reviewed and certified by your local election official before they become effective. Please allow a few days for processing of your voter registration form before you plan to submit your Vote by Mail application online.",
+            "s": "https://www.sec.state.ma.us/divisions/elections/voting-information/vote-by-mail.htm",
+            "t": 1726963200.0
+        },
+        {
+            "q": "How do I apply by mail?",
+            "a": "Our office will send a pre-addressed, postage pre-paid Vote by Mail application to every registered voter before each statewide election. This mailing is required by state law.  You can use this application to request a ballot for the next statewide election, or for all elections this year. Simply mark your selections, sign the application, and drop it in the mail.  Forty-five days before each statewide election, we mail Vote by Mail applications to voters. We wont send you an application if youve already applied to vote by mail for the upcoming election.  If you need another application, you can download a Vote by Mail application here. If you cant print the application, you can also use any signed request to apply. You can send a signed letter to your local election office to apply for your ballot.",
+            "s": "https://www.sec.state.ma.us/divisions/elections/voting-information/vote-by-mail.htm",
+            "t": 1726963200.0
+        },
+        {
+            "q": "How do I apply by email/Fax?",
+            "a": "Applications can be submitted by email or fax, but they must include a signature that can be compared to your hand-written signature. Electronic signatures, scanned applications, and photos of applications are acceptable.  Your local election official cant accept a typed signature, unless youre a voter who needs an accommodation due to physical disability. If youre unable to sign your application or mark your ballot by hand due to a disability, visit our page about voting with disabilities for information on requesting an accommodation.",
+            "s": "https://www.sec.state.ma.us/divisions/elections/voting-information/vote-by-mail.htm",
+            "t": 1726963200.0
+        },
+        {
+            "q": "What are the application deadlines?",
+            "a": "Your mail-in application must reach your local election officials by 5 p.m. on the 5th business day before the election. No matter when the application is postmarked, your application must be at the local election office by the deadline.  2024 Application Deadlines: November 5th State Election: 5 p.m., Tuesday, October 29. Apply as early as possible, especially if your ballot will need to be mailed out of town. The Postal Service recommends allowing up to 7 days for mail delivery.  To ensure that you receive your ballot with enough time to mail it back, you should apply 2-3 weeks before Election Day.",
+            "s": "https://www.sec.state.ma.us/divisions/elections/voting-information/vote-by-mail.htm",
+            "t": 1726963200.0
+        },
+        {
+            "q": "How do I return my ballot?",
+            "a": "There are several options for returning your ballot. You may return your ballot by:  Mailing it back using the envelope provided Hand-delivering your ballot to your local election office Dropping your ballot off at an early voting location during early voting hours Using a ballot drop box. Ballots cannot be dropped off at a polling place on Election Day. Your ballot must reach your local election office or drop box by close of polls on Election Day in order to be counted. The only exception is for ballots returned by mail in the biennial state election in November, when 3 extra days are allowed for ballots postmarked by Election Day to arrive in the mail.  Use our Track My Ballot tool to check the status of your ballot. The tracker will show you the date your ballot was mailed, the date it was returned, and whether your ballot was accepted or rejected.  2024 Ballot Return Deadlines: November 5th State Election If returned in person or by drop box: 8 p.m., November 5, 2024 If returned by domestic mail: by 5 p.m. on November 8, 2024 (must be postmarked by Election Day) If returned by mail from outside the United States: 5 p.m. on November 15, 2024 (must be postmarked by Election Day)",
+            "s": "https://www.sec.state.ma.us/divisions/elections/voting-information/vote-by-mail.htm",
+            "t": 1726963200.0
+        },
+        {
+            "q": "How do I vote in person?",
+            "a": "You can still vote in person if:  You applied to vote by mail, but never returned your ballot You mailed your ballot back, but it hasnt reached your local election office Your ballot was received by your local election office, but it was rejected If any of the above is true, you can vote at an early voting location or at your polling place on Election Day. If your mail-in ballot reaches your local election office after you vote, the mail-in ballot will be rejected.  You cant vote in person if your ballot has reached your local election office and was accepted. Once your ballot is accepted, you have voted. You cant take your ballot back or vote again. ",
+            "s": "https://www.sec.state.ma.us/divisions/elections/voting-information/vote-by-mail.htm",
+            "t": 1726963200.0
+        },
+        {
+            "q": "How do I vote in local elections?",
+            "a": "State law allows cities and towns to opt out of no-excuse early voting by mail in local elections. A city or town can only opt out of Vote by Mail for a local election after the city council or board of selectmen hold a public hearing and take a recorded vote to do so at least 45 days before the election.  If your community opts out of Vote by Mail for your local election, a Vote by Mail application will not be valid for that election. Check with your local election office about whether your community has opted out of Vote by Mail in an upcoming local election.  Absentee ballots are still available to those who qualify. Visit our Absentee Voting page for more information.",
+            "s": "https://www.sec.state.ma.us/divisions/elections/voting-information/vote-by-mail.htm",
+            "t": 1726963200.0
+        },
+        {
+            "q": "How do I vote early?",
+            "a": "State law allows cities and towns to opt out of no-excuse early voting by mail in local elections. A city or town can only opt out of Vote by Mail for a local election after the city council or board of selectmen hold a public hearing and take a recorded vote to do so at least 45 days before the election.  If your community opts out of Vote by Mail for your local election, a Vote by Mail application will not be valid for that election. Check with your local election office about whether your community has opted out of Vote by Mail in an upcoming local election.  Absentee ballots are still available to those who qualify. Visit our Absentee Voting page for more information. ",
+            "s": "https://www.sec.state.ma.us/divisions/elections/voting-information/vote-early.htm",
+            "t": 1726963200.0
+        },
+        {
+            "q": "What are Absentee Ballots?",
+            "a": "You can vote by absentee ballot if:  You will be away from your city or town on Election Day You have a religious belief that prevents you from voting at your polling location on Election Day You have a disability that prevents you from voting at your polling location Absentee voters use the same ballots as early Vote by Mail voters and have the same deadlines for returning their ballots. Most voters who qualify for an absentee ballot can choose instead to apply for an early Vote by Mail ballot. There are some times that an absentee ballot application is needed.  You should fill out an absentee ballot application if:  You qualify for an absentee ballot and you are voting in a local election in a city or town that has opted out of Vote by Mail for that election You are on active military duty You are a U.S. citizen living outside the U.S. You will be away from your city or town on Election Day You are requesting an emergency absentee ballot due to hospitalization You are currently incarcerated for a reason other than a felony conviction",
+            "s": "https://www.sec.state.ma.us/divisions/elections/voting-information/absentee-voting.htm",
+            "t": 1726963200.0
+        },
+        {
+            "q": "How do I apply for my absentee ballot?",
+            "a": "To request your absentee ballot, you will need to submit a absentee application to your local election office:  By mail By email By fax Absentee applications can be downloaded or printed here. Further, any written request with your signature is an acceptable application. You can simply write a signed letter to your local election office to apply for your ballot.  Applications can be submitted by mail, email, or fax, but they must include a signature that can be compared to your hand-written signature. Electronic signatures, scanned applications, and photos of applications are acceptable.  Typed signatures on applications cannot be accepted, unless you are a voter who requires accommodations due to physical disability. If you are unable to sign your application or mark your ballot by hand due to a disability, visit our page about voting with disabilities for information on requesting an accommodation.",
+            "s": "https://www.sec.state.ma.us/divisions/elections/voting-information/absentee-voting.htm",
+            "t": 1726963200.0
+        },
+        {
+            "q": "What are the application deadlines?",
+            "a": "Any mail-in ballot must be requested in writing by 5 p.m. on the 5th business day before the election. Your application can only be accepted if it has reached your local election office by the deadline.  Apply as early as possible, especially if your ballot will need to be mailed out of town. The U.S. Postal Service recommends allowing up to 7 days for mail delivery. To ensure you receive your ballot with enough time to mail it back, you should apply 2-3 weeks before Election Day. ",
+            "s": "https://www.sec.state.ma.us/divisions/elections/voting-information/absentee-voting.htm",
+            "t": 1726963200.0
         },
         {
             "q": "What are Emergency Absentee Ballots?",
             "a": "If you have been admitted to a healthcare facility within 1 week of the election, you may use the absentee ballot application to designate someone of your choice to deliver a ballot to you. The person you designate to deliver your ballot will need to bring the signed application to your local election office, pick up your absentee ballot, bring it to you, and return it for you by the close of polls on Election Day. Emergency ballots may be requested up until the close of polls.",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
+            "s": "https://www.sec.state.ma.us/divisions/elections/voting-information/absentee-voting.htm",
+            "t": 1726963200.0
         },
         {
-            "q": "How to Return Your Absentee Ballot?",
-            "a": "There are several options for returning your ballot. You may return your ballot by: Mailing it back using the envelope provided Hand-delivering your ballot to your local election office Using a ballot drop box provided by your city or town Ballots cannot be dropped off at a polling place on Election Day. For most elections, ballots must reach your local election office by close of polls on Election Day to be counted. In biennial November State Elections, mailed domestic ballots can arrive up to 3 days after Election Day, if they are postmarked by Election Day. Use our Track My Ballot tool to check the status of your ballot. The tracker will show you the date your ballot was mailed, the date it was returned, and whether your ballot was accepted or rejected.",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
+            "q": "What are Provisional Ballots?",
+            "a": "If youre not on the voters list when you check in to vote, or if your information on the list is wrong, you can cast a provisional ballot. If your local election office confirms that youre registered to vote, your ballot will be counted. If your voter registration status cant be confirmed, your ballot will be destroyed and not counted.",
+            "s": "https://www.sec.state.ma.us/divisions/elections/voting-information/provisional-ballots.htm",
+            "t": 1726963200.0
         },
         {
-            "q": "How to Vote in Person?",
-            "a": "You may arrange with your local election official to cast your absentee ballot in person at your local election office until 12 p.m. on the day before the election. If the day before the election is a weekend or holiday, in-person absentee voting will end at 5 p.m. on the last business day before the election. You can still vote in person at your polling place or an early voting location if you\u2019ve applied for an absentee ballot, as long as you haven\u2019t yet returned the ballot. You can\u2019t vote in person if your ballot has been accepted by your local election office. You can\u2019t take your ballot back or vote again. Use our website to track your ballot status. If your ballot hasn\u2019t been accepted by Election Day, you may vote in person at your polling place. If your ballot arrives at your local election office after you\u2019ve voted, the mail-in ballot will be rejected.",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
+            "q": "What if my Name is not on the Voter List?",
+            "a": "If you believe that youre registered to vote but your name isnt on the list at your polling location, check to make sure that youre at the right polling location. If you are, ask the poll worker to contact your local election office to confirm that youre registered to vote.  If youve moved recently, you might still be registered to vote at your old address. Your local election office will be able to check if youre registered in another city or town. You can vote at your old polling location for up to six months after you move. You cannot do this in local election or if youre already registered elsewhere. You can update your address by submitting a new voter registration form.",
+            "s": "https://www.sec.state.ma.us/divisions/elections/voting-information/provisional-ballots.htm",
+            "t": 1726963200.0
         },
         {
-            "q": "What is the Directory of Political Parties and Designations?",
-            "a": "When you register to vote, you may choose to enroll in a political party or political designation or may choose to remain \u201cunenrolled,\u201d which is commonly referred to as independent. If you do not enroll in a party, you may still vote in state and presidential primaries by choosing a party ballot and will remain unenrolled. Once you make an enrollment choice you may change your enrollment status by notifying your election official in writing at least 10 days before an election.",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
+            "q": "What about Incorrect Party Enrollment?",
+            "a": "Party enrollment does not impact the general election. No matter your party enrollment, you can vote in the general election.",
+            "s": "https://www.sec.state.ma.us/divisions/elections/voting-information/provisional-ballots.htm",
+            "t": 1726963200.0
         },
         {
-            "q": "What are Parties?",
-            "a": "If you enroll in any of these three parties you may vote only in that party\u2019s primary. Enrollment in a political party does not affect your right to vote in the general election. In the general election, all voters receive the same ballot and vote for the candidate of their choice, regardless of party enrollment. Party Name and Letter Code Telephone Number Democratic (D)\t617-939-0800 Republican (R)\t617-523-5005 Libertarian (L)\t508-433-0057",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
+            "q": "What if I Can't Provide Identification?",
+            "a": "If youre voting for the first time in Massachusetts and youre not able to show identification when you check in to vote, you can cast a provisional ballot. You must return with proof of identification before the polls close for your ballot to be counted.  If you registered to vote by mail, you may have to show identification at your polling place. This is required when you havent had your ID verified before Election Day. If you do not have ID with you, you can cast a provisional ballot. You must return with valid ID before the polls close for your ballot to be counted.",
+            "s": "https://www.sec.state.ma.us/divisions/elections/voting-information/provisional-ballots.htm",
+            "t": 1726963200.0
         },
         {
-            "q": "What are Designations?",
-            "a": "In addition to the three political parties listed above, there are certain legal political designations in which you can enroll. Designation Name: America First Party American Independent Party American Term Limits Conservative Party Constitution Party Forward Party Green Party USA Green-Rainbow Interdependent 3rd Party Latino-Vote Party Massachusetts Independent Party Natural Law Party New Alliance Party New World Council Pirate Pizza Party Prohibition Party Rainbow Coalition Reform Party Socialist The People's Party Twelve Visions Party Timesizing Not Downsizing United Independent Party Unity Party Veterans Party America We The People Workers Party Working Families World Citizens Party",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
-        },
-        {
-            "q": "How Accessible are Polling Places?",
-            "a": "All polling locations must be accessible. The Secretary of the Commonwealth has standards locations are required to meet. This includes:",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
-        },
-        {
-            "q": "What are the Accessible Voting Procedures?",
-            "a": "A voter can choose someone to assist them while:",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
-        },
-        {
-            "q": "Is there Accessible Voting Equipment?",
-            "a": "Every early voting and polling location must have at least one accessible voting machine. The AutoMARK Voter Assist Terminals can assist visually impaired voters. It displays the ballot in high-contrast, magnified text and uses audio cues. The AutoMARK can also read you your ballot before you print it out and submit it.",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
-        },
-        {
-            "q": "What is Accessible Vote by Mail Ballot?",
-            "a": "In most elections in Massachusetts, voters can choose to vote by mail. Accessible vote by mail ballots are available for certain voters. If you are blind or have a vision impairment, have a mobility or dexterity disability, or have another disability that makes it difficult for you to mark a paper ballot, you can request an accessible vote by mail ballot.",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
-        },
-        {
-            "q": "How to apply for your ballot?",
-            "a": "To request your Vote by Mail ballot, you will need to submit a Vote by Mail applicationto your local election office:",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
-        },
-        {
-            "q": "What are the Application Deadlines?",
-            "a": "Any mail-in ballot must be requested in writing by 5 p.m. on the 5th business day before the election. Your application can only be accepted if it has reached your local election office by the deadline. Apply as early as possible.",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
-        },
-        {
-            "q": "How to Vote by Accessible Vote by Mail Ballot?",
-            "a": "Once your application has been received by your local election office, they will send two emails to the email address provided on your application. One will include instructions for accessing the system and returning your completed ballot and the second will give you a unique access PIN to use to login.",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
-        },
-        {
-            "q": "How to Return Your Accessible Vote by Mail Ballot Electronically?",
-            "a": "To return the ballot electronically, you will need to review the ballot materials and ballot before submitting the ballot to your local election official using the secure web portal. Ballots returned electronically must be received by the close of polls on Election Day.",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
-        },
-        {
-            "q": "How to Return Your Ballot by Mail or in Person?",
-            "a": "To return a ballot by mail, in a secure drop box, or in person at your local election office, you must be able to print your ballot. To print and return your ballot, you must inform your local election office so they can send you a secrecy envelope and return mailing envelope. Your request for the materials must be received by the local election office by 5 p.m. on the 5th business day before the election.",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
-        },
-        {
-            "q": "When is the state election?",
-            "a": "November 5, 2024",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
-        },
-        {
-            "q": "What is the district of the election?",
-            "a": "Statewide",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
-        },
-        {
-            "q": "What offices are on the Ballot?",
-            "a": "Electors of President and Vice President",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
-        },
-        {
-            "q": "When is the Voter Registration Deadline?",
-            "a": "October 26, 2024",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
-        },
-        {
-            "q": "When is the Vote by Mail Application Deadline?",
-            "a": "October 29, 2024",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
-        },
-        {
-            "q": "What are the Polling hours?",
-            "a": "7 a.m. \u2013 8 p.m.",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
-        },
-        {
-            "q": "Can Military and Overseas Voters vote?",
-            "a": "Massachusetts citizens who are in the military or overseas can vote in all elections. Citizens deployed, stationed outside of Massachusetts, or living overseas have their right to vote protected by the Uniformed and Overseas Citizens Absentee Voting Act (UOCAVA). If you are a military or overseas voter, you are exempt from voter registration requirements in Massachusetts. In order to get your ballot, you simply need to submit an absentee ballot application.",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
-        },
-        {
-            "q": "Can Military Voters vote?",
-            "a": "You can vote by absentee ballot if: You\u2019re a member of the United States Military on active duty. You\u2019re a dependent family member of someone on active duty. If you\u2019re a member of the military stationed in Massachusetts, you can register to vote in Massachusetts. If you lived in Massachusetts before being called to active duty and you haven\u2019t registered elsewhere, you can vote by absentee ballot in Massachusetts elections. Members of the Army, Navy, Air Force, Marine Corps, Coast Guard (including reservists on active duty), and the merchant marine are all eligible military voters.",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
-        },
-        {
-            "q": "Can Overseas Citizens vote?",
-            "a": "If you\u2019re a United States citizen living overseas, you can vote in U.S. elections. You can vote using the address from your last residence in the United States. If you\u2019re a citizen who has never lived in the U.S., you can vote from your qualifying parent\u2019s last U.S. address.",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
-        },
-        {
-            "q": "How to apply for your Ballot?",
-            "a": "If you\u2019d like to get an absentee ballot, you can: Apply with the Federal Post Card Application or Apply with the Massachusetts Absentee Ballot Application or Send a written request for an absentee ballot to your local election office Any application has to be sent to your local election office. The signature on your application needs to be able to be compared to your hand-written signature. Typed signatures won\u2019t be accepted. Your absentee ballot application is valid until December 31 of the year that you submit it. You will need to submit a new absentee ballot application every year in which you want to vote. Absentee ballot applications must reach your local election office by 5 p.m. on the 5th business day before an election. If you miss the deadline to apply for a ballot, you can vote using a Federal Write-in Absentee Ballot.",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
-        },
-        {
-            "q": "How do you vote?",
-            "a": "You\u2019ll receive a ballot with the same races as all other Massachusetts voters.",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
-        },
-        {
-            "q": "How to Return Your Ballot?",
-            "a": "Ballot deadlines are different depending on the type of election and how you return your ballot. Deadlines for electronic return (email, online, and fax) may differ from deadlines for ballots returned by mail. Below is a list of deadlines by type of election.",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
-        },
-        {
-            "q": "What is a Federal Write-in Absentee Ballot?",
-            "a": "The Federal Write-in Absentee Ballot (FWAB) is a ballot of last resort. If you were not able to apply or receive your ballot in time, you may submit a FWAB.",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
-        },
-        {
-            "q": "How to Vote in a Primary?",
-            "a": "In Massachusetts, every registered voter can vote in a primary election. You do not need to be a party member to participate, but your party registration may affect your ballot options. Read below to learn how to vote in a primary, when primaries are held, and other important information.",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
-        },
-        {
-            "q": "What are the Political Parties?",
-            "a": "Primaries are held in order for political parties to choose their nominees for the general election ballot. There are currently three recognized political parties in Massachusetts: Democratic Party Republican Party Libertarian Party Each party holds its own primary. Separate ballots are printed for each party, with only the candidates running for that party\u2019s nomination listed. Non-party candidates, often called \u201cindependent candidates,\u201d don\u2019t appear on primary ballots. They only run in the general election.",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
-        },
-        {
-            "q": "What is Party Enrollment?",
-            "a": "You don\u2019t need to enroll in a party to vote in a primary in Massachusetts. All registered voters can participate. If you\u2019re registered in one party, however, you can\u2019t vote in another party\u2019s primary. You can vote in the party primary of your choice if you're: Registered as Unenrolled (often called \u201cIndependent\u201d) Registered in a political designation If you want to change your party to vote in a different party\u2019s primary, you\u2019ll need to update your voter registration at least 10 days before the primary. Check your party enrollment before the voter registration deadline. You can make a party change online, by mail, or in person at your local election office.",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
-        },
-        {
-            "q": "How to Choose a Ballot?",
-            "a": "If you aren\u2019t enrolled in a political party, you can choose a party ballot when you check-in at your polling place. Choosing a ballot won\u2019t enroll you in a party. Check the specimen ballots on the wall at your polling place before making your selection. Once you\u2019ve chosen a ballot, and the poll worker marks your choice on the voter list, you can\u2019t change your selection. If you vote by mail, and you are not a party member, make sure to select your party on the Vote by Mail application. If you don\u2019t select a party on the Vote by Mail application, you won\u2019t get a primary ballot.",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
-        },
-        {
-            "q": "When are primaries held?",
-            "a": "Regular state primaries are held in September of each even-numbered year. Voters in these primaries choose party candidates to run in the November election. Presidential primaries in Massachusetts occur on the first Tuesday of March in each presidential election year. This day, is often called \u201cSuper Tuesday,\u201d because many states hold their presidential primaries on the same day. Visit our Upcoming Elections page to find the dates of specific elections.",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
-        },
-        {
-            "q": "Why isn\u2019t there an \u201cIndependent\u201d option on my Vote by Mail application?",
-            "a": "Primaries are only held by political parties, so there\u2019s no \u201cindependent primary.\u201d Any non-party candidates automatically advance to the November general election ballot. When you choose a party option on your Vote by Mail application, you\u2019re just making a ballot choice. You aren\u2019t registering in that party.",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
-        },
-        {
-            "q": "Why can\u2019t I vote for candidates in both parties?",
-            "a": "Parties hold separate primaries in Massachusetts, with separate ballots. State law doesn\u2019t allow for voters to choose more than one ballot, or for candidates of different parties to appear on the same primary ballot.",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
-        },
-        {
-            "q": "Can I write-in a candidate from a different party on my ballot?",
-            "a": "Yes. You can write-in any candidate not listed on your ballot, but the vote will be counted as one vote for that person to win the party nomination for the primary in which you\u2019re voting. For example, if you write-in the name of a Republican candidate on your Democratic Primary ballot, you\u2019ll be casting your vote for that candidate to receive the Democratic nomination.",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
-        },
-        {
-            "q": "Why are Democratic ballots red and Republican ballots blue?",
-            "a": "It\u2019s a long-standing Massachusetts tradition. While modern political coverage uses blue for Democrats and red for Republicans, Massachusetts has used the reverse for primary ballots for nearly a century. Primary ballots in Massachusetts appear with red/pink paper for Democratic ballots and blue paper for Republican ballots.",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
-        },
-        {
-            "q": "How to Vote Early?",
-            "a": "In Massachusetts, you can vote early in all statewide elections. You don\u2019t need an excuse to cast an early ballot. You can vote early in person or by mail. For information on voting early by mail, visit our Voting by Mail page.",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
-        },
-        {
-            "q": "What are Eligible Elections for early voting?",
-            "a": "In-person early voting is available for: Regular state elections Regular state primaries Presidential primaries Special elections held on the same day as a statewide election Special elections for U.S. Senate or U.S. House of Representatives Local officials may choose to offer in-person early voting for regular city and town elections. Contact your local election office for information about early voting in local elections.",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
-        },
-        {
-            "q": "What are the Early Voting Periods?",
-            "a": "In-person early voting takes place during a designated early voting period, set by state law. For statewide elections, early voting periods include guaranteed weekend voting hours for every community. November Election Early Voting Period: October 19 \u2013 November 1",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
-        },
-        {
-            "q": "What are the Schedules & Locations for early voting?",
-            "a": "You can vote at any early voting location in your city or town. Local officials must have at least one early voting site within the community. The early voting schedule for your community will be set by your local election official. We will publish the early voting schedules for every city and town on this website, at least one week before the early voting period begins. Early voting schedules for the November 5, 2024 election will be posted by October 11.",
-            "s": "Voting-Mass.gov",
-            "d": 1726963200.0
-        },
-        {
-            "q": "Where can I find information about candidates and ballot measures for the upcoming election?",
-            "a": "To see a list of available races, visit the Vote411\u202frace index for Massachusetts",
-            "s": "Voting411.org",
-            "d": 1726963200.0
-        },
-        {
-            "q": "Who gets Time Off To Vote?",
-            "a": "Voters employed in mechanical, manufacturing or mercantile businesses are allowed time off during the first two hours after the polls have opened only if an application for absence has been submitted.",
-            "s": "Voting411.org",
-            "d": 1726963200.0
-        },
-        {
-            "q": "Where are the Drop Boxes?",
-            "a": "Use this directory\u202fto find your local election office\u202for drop box for returning your mail ballot. Ballots may be\u202fdelivered in person to your local election office, a secured municipal drop box in your city/town, or any early voting location in your city/town during early voting hours.\u202f Ballots may also be mailed via US Postal Service. Mail ballots cannot be delivered to the polls on Election Day; they must be taken to the election office on that day.",
-            "s": "Voting411.org",
-            "d": 1726963200.0
-        },
-        {
-            "q": "What is the Registration Deadline?",
-            "a": "The registration deadline for the 11/5/24 General Election is 10/26/24.",
-            "s": "Voting411.org",
-            "d": 1726963200.0
-        },
-        {
-            "q": "What are the Voter registration deadlines?",
-            "a": "The deadline to register to vote is 10 days before the election. \u00a0Local election offices are open until 5 p.m. on the final day to register:",
-            "s": "Voting411.org",
-            "d": 1726963200.0
-        },
-        {
-            "q": "How do I Verify voter registration status?",
-            "a": "You can verify your voter registration status online here. \u00a0My Voter Registration Status: Search (state.ma.us)",
-            "s": "Voting411.org",
-            "d": 1726963200.0
-        },
-        {
-            "q": "What is Automatic voter registration?",
-            "a": "If you are a U.S. citizen applying for or renewing a driver's license or state ID at the RMV, or applying for health insurance through MassHealth or the Commonwealth Health Connector, you will be automatically registered to vote, unless you opt out of registering.",
-            "s": "Voting411.org",
-            "d": 1726963200.0
-        },
-        {
-            "q": "How do New Citizens register to vote?",
-            "a": "If you are a new citizen who was naturalized after the last day to register to vote, you may register to vote in person at your local election office until 4 p.m. on the day before the election. You should bring documentation to show that your naturalization ceremony occurred after the voter registration deadline.",
-            "s": "Voting411.org",
-            "d": 1726963200.0
+            "q": "How are Provisional Ballots resolved?",
+            "a": "Local election offices must resolve all provisional ballots within three days of state or presidential primary elections. Provisional ballots cast for state and local elections must be resolved within 12 days of the election. If your local election office finds that you are an eligible voter, your ballot will be counted.  You can call the Elections Division at 1-800-462-VOTE (8683) after Election Day to see if your ballot has been counted.",
+            "s": "https://www.sec.state.ma.us/divisions/elections/voting-information/provisional-ballots.htm",
+            "t": 1726963200.0
         },
         {
             "q": "What is the Absentee Ballot Process?",
-            "a": "Massachusetts now offers unrestricted voting by mail for all state primaries and general elections.\u00a0The state sends mail ballot applications to all registered voters 45 days before the election. If you do not get an application, you can download and print the application here.\u00a02022 Vote by Mail Application (state.ma.us) Note that if you are not enrolled in the Democratic or Republican parties, you must specify on the application which primary ballot you want.\u00a0If you want a mail ballot, apply as soon as possible.",
-            "s": "Voting411.org",
-            "d": 1726963200.0
+            "a": "Massachusetts now offers unrestricted voting by mail for all state primaries and general elections.   The state sends mail ballot applications to all registered voters 45 days before the election. If you do not get an application, you can download and print the application here. 2022 Vote by Mail Application (state.ma.us) Note that if you are not enrolled in the Democratic or Republican parties, you must specify on the application which primary ballot you want. If you want a mail ballot, apply as soon as possible.   Permanent Vote-by-Mail:  You can indicate on your mail ballot application if you want a mail ballot for all future elections in the calendar year, and you will not have to apply again.   Returning your Ballot:  Once you receive your mail ballot, follow the instructions for filling it out and returning it. You can return it by mail in its postage-paid envelope. You can take it to your town or city election office. Or you can put it in an official ballot drop box. Find election offices and drop box locations here: Elections: Find My Election Office (state.ma.us). You can also drop it at early voting locations when those polls are open. You cannot leave a mail ballot at polling places on Election Day.   Mail ballots for the primary election must be received by 8 pm on Election Day. Mail ballots for the general election must be received by 5 pm the third day after the election and be postmarked on or before Election Day. Ballots must be received in the election office; they cannot be left at polling places on Election Day.   Use Track My Ballot  Track My Ballot: Search (state.ma.us) to determine the status of your mailed ballot.    You can still vote in person if you've applied to vote-by-mail. You can vote at an early voting location or your polling place on Election Day. You can't vote in person if your local election office has already accepted your ballot. You can't take your ballot back or vote again.   Click here for more information on voting by mail. Elections: Absentee Voting (state.ma.us)   Absentee ballots   Absentee voters use the same ballots as mail voters and have the same deadlines for returning their ballots. Most voters who qualify for an absentee ballot can choose instead to apply for an early Vote by Mail ballot. Some circumstances require an absentee ballot application. You should fill out an absentee ballot application if:   You are a US citizen residing overseas; or  You are on active military duty; or  You are currently incarcerated for a reason other than a felony conviction; or  You are requesting an emergency absentee ballot due to hospitalization.  Emergency Absentee Ballots   Suppose you have been admitted to a healthcare facility within one week of the election. In that case, you may use the absentee ballot application to designate someone of your choice to deliver a ballot to you. The person you designate to deliver your ballot will need to bring the signed application to your local election office, pick up your absentee ballot, bring it to you, and return it for you by the close of polls on Election Day. Emergency ballots may be requested up until the close of the polls.",
+            "s": "https://www.vote411.org/massachusetts#absentee-ballot-process",
+            "t": 1726963200.0
         },
         {
-            "q": "How to register for Permanent Vote-by-Mail?",
-            "a": "You can indicate on your mail ballot application if you want a mail ballot for all future elections in the calendar year, and you will not have to apply again.",
-            "s": "Voting411.org",
-            "d": 1726963200.0
+            "q": "What is the Ballot Notice and Cure Process?",
+            "a": "The deadline to cure (correct) your absentee/mail ballot is 8pm on Election Day, November 5, 2024. If an absentee/mail ballot is deficient, the clerk will mark the ballot \"Rejected as defective.\" Then, the clerk must notify each voter whose ballot was rejected as soon as possible. Unless the clerk determines there is clearly not enough time for a voter to return a new ballot, the clerk should proceed as if the voter requested a substitute ballot. You can track your absentee/mail ballot using your states online tool. If you voted a provisional ballot, your local election officials will research to verify if youre an eligible voter. You can call the Elections Division at 1-800-462-VOTE (8683) after Election Day to check if your provisional ballot has been counted. ",
+            "s": "https://www.vote411.org/massachusetts#ballot-notice-and-cure-process",
+            "t": 1726963200.0
         },
         {
-            "q": "How to return your Ballot?",
-            "a": "Once you receive your mail ballot, follow the instructions for filling it out and returning it. You can return it by mail in its postage-paid envelope. You can take it to your town or city election office. Or you can put it in an official ballot drop box. Find election offices and drop box locations here:\u00a0Elections: Find My Election Office (state.ma.us). You can also drop it at early voting locations when those polls are open. You cannot leave a mail ballot at polling places on Election Day.\u00a0 Mail ballots for the primary election must be received by 8 pm on Election Day. Mail ballots for the general election must be received by 5 pm the third day after the election and be postmarked on or before Election Day. Ballots must be received in the election office; they cannot be left at polling places on Election Day.\u00a0Use Track My Ballot\u00a0 Track My Ballot: Search (state.ma.us) to determine the status of your mailed ballot.\u00a0\u00a0You can still vote in person if you've applied to vote-by-mail. You can vote at an early voting location or your polling place on Election Day. You can't vote in person if your local election office has already accepted your ballot. You can't take your ballot back or vote again.\u00a0Click here for more information on voting by mail.\u00a0Elections: Absentee Voting (state.ma.us)",
-            "s": "Voting411.org",
-            "d": 1726963200.0
+            "q": "Where can I find Campaign Finance Information?",
+            "a": "For information on federal campaign contributions, please visitOpen Secrets.   For information on state campaign contributions and financing, visit the Massachusetts Office of Campaign and Political Finance. OCPF - Welcome to the OCPF Home Page ",
+            "s": "https://www.vote411.org/massachusetts#campaign-finance-information",
+            "t": 1726963200.0
         },
         {
-            "q": "How do absentee ballots work?",
-            "a": "Absentee voters use the same ballots as mail voters and have the same deadlines for returning their ballots. Most voters who qualify for an absentee ballot can choose instead to apply for an early Vote by Mail ballot. Some circumstances require an absentee ballot application. You should fill out an absentee ballot application if:",
-            "s": "Voting411.org",
-            "d": 1726963200.0
+            "q": "Where can I find Candidate and Ballot Measure Information?",
+            "a": "To see a list of available races, visit the Vote411race index for Massachusetts ",
+            "s": "https://www.vote411.org/massachusetts#candidate-and-ballot-measure-information",
+            "t": 1726963200.0
         },
         {
-            "q": "What are Emergency Absentee Ballots?",
-            "a": "Suppose you have been admitted to a healthcare facility within one week of the election. In that case, you may use the absentee ballot application to designate someone of your choice to deliver a ballot to you. The person you designate to deliver your ballot will need to bring the signed application to your local election office, pick up your absentee ballot, bring it to you, and return it for you by the close of polls on Election Day. Emergency ballots may be requested up until the close of the polls.",
-            "s": "Voting411.org",
-            "d": 1726963200.0
-        },
-        {
-            "q": "What is Provisional Voting?",
-            "a": "Voters who find that they are not on the list where they believe they are registered to vote or find that they are listed incorrectly, have the right to cast a provisional ballot. Provisional ballots are sealed in an envelope and kept separately from other ballots until the voter's eligibility can be determined. If a provisional voter is determined to be registered, their ballot is unsealed and counted; if the voter is determined to be ineligible to vote, the ballot is destroyed without being examined.",
-            "s": "Voting411.org",
-            "d": 1726963200.0
-        },
-        {
-            "q": "What are the Eligibility Requirements?",
-            "a": "To be eligible to vote, you must be: Incarcerated Voters & Returning Citizens:\u00a0 In Massachusetts, you only lose your right to vote if you are currently incarcerated for a felony conviction. If you lost your voting rights because of a conviction, you could register to vote immediately after release. Your voting rights are not restricted by pretrial detention, misdemeanors, probation, or parole.\u00a0 Voters without traditional residence:",
-            "s": "Voting411.org",
-            "d": 1726963200.0
-        },
-        {
-            "q": "How can I find information on becoming a poll worker?",
-            "a": "Poll workers are needed!\u00a0 Local election officials hire poll workers.\u00a0 Contact your town clerk or city election officer for information on eligibility, hours, training, and an application.\u00a0 You can find that contact information here.\u00a0 Elections: Find My Election Office (state.ma.us)",
-            "s": "Voting411.org",
-            "d": 1726963200.0
-        },
-        {
-            "q": "What ID is Needed for Voting?",
-            "a": "You may be asked to show identification when you check in at your polling place for any of the following reasons:",
-            "s": "Voting411.org",
-            "d": 1726963200.0
+            "q": "What are drop boxes?",
+            "a": "Use this directoryto find your local election officeor drop box for returning your mail ballot. Ballots may bedelivered in person to your local election office, a secured municipal drop box in your city/town, or any early voting location in your city/town during early voting hours. Ballots may also be mailed via US Postal Service. Mail ballots cannot be delivered to the polls on Election Day; they must be taken to the election office on that day. ",
+            "s": "https://www.vote411.org/massachusetts#drop-boxes",
+            "t": 1726963200.0
         },
         {
             "q": "When is Early Voting?",
-            "a": "Early voting for the November 5, 2024 general election begins October 19th and ends November 1st. In-person early voting is now available for both state primary and general elections.\u00a0Check with your local election office\u00a0-\u00a0Elections: Find My Election Office (state.ma.us) for specific hours and locations. Those hours and locations will also be posted on the Secretary of State\u2019s website starting five days before early voting begins.",
-            "s": "Voting411.org",
-            "d": 1726963200.0
+            "a": "In-person early voting is now available for both state primary and general elections. Check with your local election office - Elections: Find My Election Office (state.ma.us) for specific hours and locations. Those hours and locations will also be posted on the Secretary of States website starting five days before early voting begins.  ",
+            "s": "https://www.vote411.org/massachusetts#early-voting",
+            "t": 1726963200.0
         },
         {
-            "q": "Where is the Polling Place Locator?",
-            "a": "To find your polling place, go to Where Do I Vote.\u00a0 My Election Info: Search (state.ma.us)",
-            "s": "Voting411.org",
-            "d": 1726963200.0
+            "q": "When are the Election Dates?",
+            "a": "The next election dates can be found here https://www.vote411.org/massachusetts.  For more information, visit your election center or contact your local board of elections.",
+            "s": "https://www.vote411.org/massachusetts#election-dates",
+            "t": 1726963200.0
         },
         {
-            "q": "What is the Primary Election Process?",
-            "a": "Massachusetts has an open primary system. You can only vote using that party's primary ballot if registered with a specific party. If you are not enrolled in any political party, you can choose which party's primary ballot to cast.",
-            "s": "Voting411.org",
-            "d": 1726963200.0
-        },
-        {
-            "q": "Overseas and Military Voters",
-            "a": "Complete information for military and overseas voters on how to receive a ballot and cast that ballot is here.\u00a0 Elections: Military and Overseas Voters (state.ma.us)",
-            "s": "Voting411.org",
-            "d": 1726963200.0
-        },
-        {
-            "q": "Campaign Finance Information",
-            "a": "For information on federal campaign contributions, please visit\u202fOpen Secrets. For information on state campaign contributions and financing, visit the Massachusetts Office of Campaign and Political Finance. OCPF - Welcome to the OCPF Home Page",
-            "s": "Voting411.org",
-            "d": 1726963200.0
-        },
-        {
-            "q": "What are Provisions for Voters with Disabilities?",
-            "a": "All polling locations and early voting sites in Massachusetts are required to be accessible. Voting locations must provide access on a permanent or temporary basis on Election Day and throughout early voting. Voting assistance and absentee voting offer options that persons with disabilities may use to vote, but they are not considered substitutes for actual accessibility to the voting location. Accessible voting provides the same opportunity for access and participation to persons with disabilities as for other voters.",
-            "s": "Voting411.org",
-            "d": 1726963200.0
+            "q": "What are the Eligibility Requirements?",
+            "a": "o be eligible to vote, you must be:  You must be a United States citizen.  You must be 18 to register to vote.  You can pre-register to vote at 16 and will be automatically moved to the voting rolls when you turn 18.  You must not currently be incarcerated for a felony.  There is no state residency requirement to vote in Massachusetts.  Incarcerated Voters & Returning Citizens:   In Massachusetts, you only lose your right to vote if you are currently incarcerated for a felony conviction. If you lost your voting rights because of a conviction, you could register to vote immediately after release. Your voting rights are not restricted by pretrial detention, misdemeanors, probation, or parole.   Voters without traditional residence:   In Massachusetts, voters must provide a residence address for voter registration purposes. When providing the residence address, post office boxes should not be used. Individuals without a permanent or fixed home may draw a map in the designated box on their voter registration form to indicate the exact location of where they stay. They should write the names of the nearest streets and mark an X to represent their primary location. They may use dots to indicate schools, churches, stores, or landmarks near their residence, and include the name of the landmark.    If the individual does not receive postal service at their residence address, they must provide a separate mailing address, including the number, street, city, state, and zip code. A post office box can be used for this purpose. ",
+            "s": "https://www.vote411.org/massachusetts#eligibility-requirements",
+            "t": 1726963200.0
         },
         {
             "q": "What ID is Needed for Voter Registration?",
-            "a": "You must attach identification to your voter registration form if you are registering to vote for the first time. If you registered to vote by mail on or after January 1, 2003, you will be required to show identification when you vote for the first time in a federal election. However, you can also send in a copy of your identification with your voter registration form. Acceptable identification must include your name and the address at which you are registered to vote.",
-            "s": "Voting411.org",
-            "d": 1726963200.0
+            "a": "You must attach identification to your voter registration form if you are registering to vote for the first time. If you registered to vote by mail on or after January 1, 2003, you will be required to show identification when you vote for the first time in a federal election. However, you can also send in a copy of your identification with your voter registration form. Acceptable identification must include your name and the address at which you are registered to vote.  Examples include:  A current and valid driver's license State issued identification card A current utility bill A bank statement A paycheck A government check Other government document showing your name and address If you send in a copy of your identification with your mail-in voter registration form, it may not be returned to you. If you do not provide such identification, the Help America Vote Act of 2002 requires that you may only cast a provisional ballot which will be counted later, but only after your eligibility to vote has been determined.  If you provide your driver's license number or the last four digits of your Social Security number on the voter registration form and those numbers are verified, you will not have to provide identification when you register to vote or at the polls. If you do not provide those numbers or if they cannot be verified (you will notified by your town or city clerk if that happens), then you have to provide identification either at town or city hall prior to the election or at the polls when you vote. Acceptable identification is a copy of any of the following:  Current and valid photo identification Government check or official document showing name and address Current utility bill showing name and address Paycheck or stub showing name and address",
+            "s": "https://www.vote411.org/massachusetts#id-needed-for-voter-registration",
+            "t": 1726963200.0
         },
         {
-            "q": "What are the Polling Place Hours?",
-            "a": "For all elections, except local elections, the polls must be open from 7:00 am to 8:00 pm.\u00a0Voters in line at 8 p.m. are entitled to vote.",
-            "s": "Voting411.org",
-            "d": 1726963200.0
+            "q": "What ID is Needed for Voting?",
+            "a": "You may be asked to show identification when you check in at your polling place for any of the following reasons:   You are voting for the first time in Massachusetts in a federal election;   You are an inactive voter;   You are casting a provisional or challenged ballot;   The poll worker has a reasonable suspicion that leads them to request identification.   Acceptable identification must include your name and the address at which you are registered to vote. Examples of acceptable identification include:  a driver's license state-issued ID card recent utility bill rent receipt lease a copy of a voter registration affidavit any other printed identification which contains the voter's name and address It's a good idea to bring identification when you go to the polls.   You are never required to show a photo ID to vote in Massachusetts.   For additional information on identification requirements and provisional ballots, see the Secretary of State's website here. Elections: Identification Requirements (state.ma.us)   Voters can call or text 844-338-8743 at any time to reach VoteRiders Voter ID Helpline.",
+            "s": "https://www.vote411.org/massachusetts#id-needed-for-voting",
+            "t": 1726963200.0
         },
         {
             "q": "When are the Official Results available?",
-            "a": "Official results are never available on Election Day.\u202f Mail ballots postmarked on or before Election Day are counted in general elections if they arrive by 5 p.m. the third day after the election. Ballots from military voters are also counted if they arrive after the election.",
-            "s": "Voting411.org",
-            "d": 1726963200.0
+            "a": "Official results are never released on Election Day. Election officials are working around the clock to count an unprecedented number of ballots, and its essential that they take the time to make sure every vote is counted.  Mail ballots postmarked on or before Election Day are counted in general elections if they arrive by 5 p.m. the third day after the election. Ballots from military voters are also counted if they arrive after the election. Provisional ballots will be counted within 12 days of Election Day.  Official election results are uploaded to the Massachusetts Secretary of Stateswebsite,as they become available.   Official Results ",
+            "s": "https://www.vote411.org/massachusetts#official-results",
+            "t": 1726963200.0
+        },
+        {
+            "q": "How do overseas and military voters participate in elections?",
+            "a": "Complete information for military and overseas voters on how to receive a ballot and cast that ballot is here.  Elections: Military and Overseas Voters (state.ma.us)   ",
+            "s": "https://www.vote411.org/massachusetts#overseas-and-military-voters",
+            "t": 1726963200.0
+        },
+        {
+            "q": "Where can I find Poll Worker Information?",
+            "a": "Poll workers are needed!  Local election officials hire poll workers.  Contact your town clerk or city election officer for information on eligibility, hours, training, and an application.  You can find that contact information here.  Elections: Find My Election Office (state.ma.us)   If local election officials need additional poll workers, they can hire people regardless of where they live, their voter status, or their party affiliation.   Students age 16 and 17 may be eligible to be poll workers.   Poll workers are paid for the hours they work.  ",
+            "s": "https://www.vote411.org/massachusetts#poll-worker-information",
+            "t": 1726963200.0
+        },
+        {
+            "q": "What are the Polling Place Hours?",
+            "a": "For all elections, except local elections, the polls must be open from 7:00 am to 8:00 pm. Voters in line at 8 p.m. are entitled to vote. ",
+            "s": "https://www.vote411.org/massachusetts#polling-place-hours",
+            "t": 1726963200.0
+        },
+        {
+            "q": "What is the Polling Place Locator?",
+            "a": "To find your polling place, go to Where Do I Vote.  My Election Info: Search (state.ma.us) ",
+            "s": "https://www.vote411.org/massachusetts#polling-place-locator",
+            "t": 1726963200.0
+        },
+        {
+            "q": "What is the Primary Election Process?",
+            "a": "Massachusetts has an open primary system. You can only vote using that party's primary ballot if registered with a specific party. If you are not enrolled in any political party, you can choose which party's primary ballot to cast.   If you are unenrolled in a party and apply for a mail ballot for the primary election, you must specify which party ballot you want.   ",
+            "s": "https://www.vote411.org/massachusetts#primary-election-process",
+            "t": 1726963200.0
+        },
+        {
+            "q": "What is Provisional Voting?",
+            "a": "Voters who find that they are not on the list where they believe they are registered to vote or find that they are listed incorrectly, have the right to cast a provisional ballot. Provisional ballots are sealed in an envelope and kept separately from other ballots until the voter's eligibility can be determined. If a provisional voter is determined to be registered, their ballot is unsealed and counted; if the voter is determined to be ineligible to vote, the ballot is destroyed without being examined.   If you are in the correct precinct and your name is not on the list, ask the poll workers to contact the city or town hall to confirm your registration. If you have moved within the same city or town and you are still registered to vote at a previous address, you should vote at the polling place where you appear on the list. State law allows you to vote from a previous address if you have moved within a municipality.   Your local election official may also check to see if you are registered in another city or town. If you have moved from one city or town to another municipality in Massachusetts, state law allows you to vote from your previous address for up to six months, as long as you have not registered to vote elsewhere.   You will need to show identification to cast a provisional ballot, so it is a good idea to bring identification when you go to the polls.   For detailed information about provisional ballots, click here.  Elections: Provisional Ballots (state.ma.us) ",
+            "s": "https://www.vote411.org/massachusetts#provisional-voting",
+            "t": 1726963200.0
+        },
+        {
+            "q": "What are the Provisions for Voters with Disabilities?",
+            "a": "All polling locations and early voting sites in Massachusetts are required to be accessible. Voting locations must provide access on a permanent or temporary basis on Election Day and throughout early voting. Voting assistance and absentee voting offer options that persons with disabilities may use to vote, but they are not considered substitutes for actual accessibility to the voting location. Accessible voting provides the same opportunity for access and participation to persons with disabilities as for other voters.   A voter can choose someone to assist in entering the polling location, checking in, entering the voting booth, preparing the ballot, exiting the booth, and checking out.   Voting via mail or absentee ballot at home is another option. Contact yourlocal election official at least five days before an election to arrange for an electronically accessible mail ballot.   If you have a disability that prevents you from marking a paper ballot, please contact your local election official.   Both federal law and state requirements mandate that voting systems be equipped for voters with disabilities allowing such voters to have the same opportunity to vote privately and independently. It is required that every precinct must have at least one accessible voting machine available.   There is at least one accessible marking unit in every polling place and early voting location in Massachusetts. The AutoMARK Voter Assist Terminals are marking devices that use audio cue capacity for visually impaired voters. The AutoMark also has a feature that will greatly magnify the ballot or display the ballot high contrast for voters that have limited visual impairment. The AutoMark can also produce an oral report to the voter as the choices are selected prior to the voter printing the ballot.   The Elections Division of the Secretary of the Commonwealth of Massachusetts is committed to making voting as accessible for all voters. Please let us know how we can improve accessibility by calling us at 800-462-VOTE (8683) (toll free) or 617-727-2828. For deaf, hard of hearing, or speech-impaired please contact us at TTY: 1-800-720-3480. You may also e-mail us atelections@sec.state.ma.us   For more information, you can utilize the American Association of People With Disabilities (AAPD) resource.",
+            "s": "https://www.vote411.org/massachusetts#provisions-for-voters-with-disabilities",
+            "t": 1726963200.0
+        },
+        {
+            "q": "What is the Registration Deadline?",
+            "a": "Voter registration deadlines   The deadline to register to vote is 10 days before the election.  Local election offices are open until 5 p.m. on the final day to register:   Verify voter registration status   You can verify your voter registration status online here.  My Voter Registration Status: Search (state.ma.us)   Automatic voter registration   If you are a U.S. citizen applying for or renewing a driver's license or state ID at the RMV, or applying for health insurance through MassHealth or the Commonwealth Health Connector, you will be automatically registered to vote, unless you opt out of registering.   New Citizens   If you are a new citizen who was naturalized after the last day to register to vote, you may register to vote in person at your local election office until 4 p.m. on the day before the election. You should bring documentation to show that your naturalization ceremony occurred after the voter registration deadline.   For more detailed information on voter registration, see the Secretary of States website.  Elections: Voter Registration Information (state.ma.us)   Not registered? Use our registration tool to fill out your application!",
+            "s": "https://www.vote411.org/massachusetts#registration-deadline",
+            "t": 1726963200.0
+        },
+        {
+            "q": "Will I have Time Off To Vote?",
+            "a": "Voters employed in mechanical, manufacturing or mercantile businesses are allowed time off during the first two hours after the polls have opened only if an application for absence has been submitted.",
+            "s": "https://www.vote411.org/massachusetts#time-off-to-vote",
+            "t": 1726963200.0
+        },
+        {
+            "q": "How do I Verify my Voter Registration?",
+            "a": "To verify your voter registration status click here.",
+            "s": "https://www.vote411.org/massachusetts#verify-voter-registration",
+            "t": 1726963200.0
+        },
+        {
+            "q": "What are the Voting Machines used?",
+            "a": "The voting systems used in Massachusetts are optical scan and hand-counted paper ballots.   Optical Scan:With this system, you will receive a paper ballot, which you take to a private table or booth. The ballot has the names of the candidates and ballot measures printed on it. With a pen or marker, you fill in a little box or circle next to your choices. When you are finished, you bring the ballot  to a tabulator, where poll workers will show you how to insert your ballot.   The tabulator checks your ballot and counts the votes at the end of Election Day.   Hand-counted Paper Ballots:Hand-counted paper ballots are one of the oldest ways of voting in America. They are still used in a few small towns on Election Day. When you come to the polling place, you will get a paper ballot from the poll worker. You take it to the voting booth, and use a pen or pencil to mark a box next to your candidate and issue choices. You then drop the marked ballot into a sealed ballot box.   These systems use paper ballots which allow for recounts and post-election audits.   You can learn more about voting systems by checking out the Elections Assistance Commission's (EAC) resource.",
+            "s": "https://www.vote411.org/massachusetts#voting-machines",
+            "t": 1726963200.0
         }
     ]
 }
