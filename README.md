@@ -10,8 +10,8 @@ If you find this work useful, please cite:
 @inproceedings{ai4s2024-voterfaqsUS,
   title={Do Voters Get the Information They Want? Understanding Authentic Voter FAQs in the US and How to Improve for Informed Electoral Participation},
   author={Vipula Rawte and Deja N Scott and Gaurav Kumar and Aishneet Juneja and Bharat Sowrya Yaddanapalli and Biplav Srivastava},
-  booktitle={Under review},
-  year={2024}
+  booktitle={TrustNLP: Fifth Workshop on Trustworthy Natural Language Processing, 2025 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2025), https://2025.naacl.org/},
+  year={2025}
 }
 ```
 ## Related data: global democracies
